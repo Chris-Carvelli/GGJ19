@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-GGJ19-4877.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Chris\Development\gamedev\unrealTest\GGJ19\Intermediate\Build\Win64\GGJ19Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\Chris\Development\gamedev\unrealTest\GGJ19\Intermediate\Build\Win64\UE4Editor\Development\GGJ19\GGJ19.cpp.obj"
+"C:\Users\Chris\Development\gamedev\unrealTest\GGJ19\Intermediate\Build\Win64\UE4Editor\Development\GGJ19\GGJ19GameModeBase.cpp.obj"
+"C:\Users\Chris\Development\gamedev\unrealTest\GGJ19\Intermediate\Build\Win64\UE4Editor\Development\GGJ19\GGJ19.init.gen.cpp.obj"
+"C:\Users\Chris\Development\gamedev\unrealTest\GGJ19\Intermediate\Build\Win64\UE4Editor\Development\GGJ19\GGJ19GameModeBase.gen.cpp.obj"
+"C:\Users\Chris\Development\gamedev\unrealTest\GGJ19\Intermediate\Build\Win64\UE4Editor\Development\GGJ19\PCLaunch.rc.res"
+/OUT:"C:\Users\Chris\Development\gamedev\unrealTest\GGJ19\Intermediate\Build\Win64\UE4Editor\Development\GGJ19\UE4Editor-GGJ19-4877.lib"
